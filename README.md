@@ -1,7 +1,5 @@
 # AI4Legal-Intelligent-Intellectual-Property-Analysis
 
-# AI4Legal: Intelligent Intellectual Property Analysis
-
 ## Project Overview
 AI4Legal is a powerful tool designed to automate the analysis of intellectual property, specifically patents. Using advanced data scraping, natural language processing, and machine learning techniques, this project aims to provide insights into patent similarities, thematic clusters, and trends in patent filings.
 
